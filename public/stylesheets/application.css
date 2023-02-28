@@ -1,0 +1,28 @@
+body {
+    background-color: turquoise;
+    margin-left: 30px;
+}
+
+h1 {
+    color:red;
+    font-size: 48px;
+}
+
+p {
+    font-size: 28px;
+    color: green;
+}
+
+p a {
+    color:magenta;
+    text-decoration: none;
+}
+
+#boba {
+    color: blue;
+}
+
+.bright {
+    color: yellow;
+    font-weight: bold;
+    }
